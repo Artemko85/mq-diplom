@@ -33,7 +33,6 @@ body {
 
 .logo {
   width: 180px;
-  outline: 1px solid red;
   justify-content: space-betweeen;
 }
 
@@ -105,7 +104,6 @@ body {
   color: #ffffff;
   font-weight: 700;
   text-align: center;
-  outline: 1px solid red;
   margin: 102px auto 165px;
 }
 
@@ -124,7 +122,6 @@ body {
   text-align: center;
   position: relative;
   padding-top: 5px;
-  outline: 2px solid red;
 }
 
 .trends-slogan:after {
@@ -269,7 +266,6 @@ body {
   margin-bottom: 27px;
   display: block;
   line-height: 1.2;
-  outline: 1px solid red;
 }
 
 .post-title:hover {
